@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is HIBO and I'm a dev, from France.</h2>
-
 ###
 
 <br clear="both">
