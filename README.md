@@ -1,8 +1,7 @@
 > :warning: If you want to check out all of my projects with easy navigation, head over to my [website](https://h1b0b0.github.io/portfolio/).
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=H1B0B0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="135" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=H1B0B0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="135" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=H1B0B0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="120" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=H1B0B0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="135" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=H1B0B0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false" height="130" alt="languages graph"  />
 </div>
 
 ###
@@ -36,11 +35,9 @@
 ###
 
 <div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <a href="https://discord.com/users/501100750471168001" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/etiennementrel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
