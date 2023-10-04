@@ -40,18 +40,6 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/H1B0B0/H1B0B0/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/H1B0B0/count.svg?"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/H1B0B0/H1B0B0/output/snake.svg" alt="Snake animation" />
 
 ###
