@@ -1,7 +1,6 @@
 > :warning: If you want to check out all of my projects with easy navigation, head over to my [website](https://h1b0b0.github.io/portfolio/).
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=H1B0B0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="135" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=H1B0B0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=H1B0B0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false" height="170" alt="languages graph"  />
 </div>
 
 ###
@@ -39,6 +38,16 @@
   <a href="https://discord.com/users/501100750471168001" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/H1B0B0/H1B0B0/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/H1B0B0/count.svg?"  />
 </div>
 
 ###
