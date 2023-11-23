@@ -11,13 +11,22 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake.svg
+      - name: Déboguer le contexte GitHub
+        run: |
+          echo "Propriétaire du dépôt GitHub : ${{ github.repository_owner }}"
+          echo "Nom de l'événement GitHub : ${{ github.event_name }}"
+          echo "Référence GitHub : ${{ github.ref }}"
+          echo "SHA GitHub : ${{ github.sha }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Générer snake.svg
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
-      - name: Push snake.svg to the output branch
+      - name: Pousser snake.svg vers la branche de sortie
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output
