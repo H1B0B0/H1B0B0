@@ -1,7 +1,6 @@
 name: Generate snake animation
 
-  workflow_dispatch:
-
+on:
   push:
     branches:
     - master
