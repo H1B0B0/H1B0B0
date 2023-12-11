@@ -1,4 +1,4 @@
-> :warning: If you want to check out all of my projects with easy navigation, head over to my [website](https://h1b0b0.github.io/portfolio/).
+> :warning: If you want to check out all of my projects with easy navigation, head over to my [website](https://h1b0b0.github.io).
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=H1B0B0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false" height="170" alt="languages graph"  />
 </div>
