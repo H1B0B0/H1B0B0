@@ -48,7 +48,7 @@
 # 📫 Connect with Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/etiennementrel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="https://discord.com/users/501100750471168001" target="_blank">
